@@ -47,9 +47,14 @@ module.exports = {
         "items": [
           {
             "text": "GitHub",
-            "link": "https://github.com/recoluan",
+            "link": "https://github.com/lhyyh1",
             "icon": "reco-github"
-          }
+          },
+          {
+            "text": "Gitee",
+            "link": "https://gitee.com/liao-hongyu/projects",
+            "icon": "reco-github"
+          },
         ]
       }
     ],
